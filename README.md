@@ -2,6 +2,8 @@
 
 📅 Calculate up-to-date statistics for each year and 365 days. Print the Calendar Statistics Report.
 
+#
+
 [Calendar Math](https://chat.openai.com/g/g-Tw6MtFNwI-calendar-math) provides customized Calendar Statistics Reports based on your location. This report includes information such as the longest and shortest days of the year, the total number of Mondays, the total number of letters and digits in the current year, the frequency of weekends throughout the year, a leap year check, and the number of public holidays.
 
 <details><summary>Calendar Statistics Report for Canada</summary>
