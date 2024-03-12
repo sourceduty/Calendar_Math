@@ -67,6 +67,7 @@ Total Number of Weekend Days in the Year: 104
 Total Number of Weekend Sections in the Year: 52.0
 The frequency of weekends in the year in percentage: 28.42%
 Leap Year: True
+Number of public holidays: 11
 
 New Year's Day: January 1
 Carnival: February 12 - 13 (varies)
