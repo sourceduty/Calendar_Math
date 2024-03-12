@@ -26,7 +26,7 @@ Example Calendar Statistics Report - Canada (2024)
 - Total number of weekend sections in the year: 52
 - Frequency of weekends in the year: 0.28
 - Leap year: Yes
-- Number of public holidays: 5
+- Number of public holidays: 12
 
 Public Holidays:
 - New Year's Day: January 1
