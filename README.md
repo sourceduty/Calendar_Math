@@ -38,6 +38,8 @@ Public Holidays:
 - Christmas Day: December 25
 - Boxing Day: December 26
 
+The total number of weeks in the year 2024 is approximately 52.29. This accounts for the fact that there are 366 days in 2024, due to it being a leap year.
+
  ```
 
 </details>
