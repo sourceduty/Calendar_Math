@@ -10,7 +10,7 @@
 
  ```
 
-Calendar Statistics Report - Canada, 2024
+Example Calendar Statistics Report - Canada, 2024
 
 Longest day of the year: June 21
 Shortest day of the year: December 21
@@ -36,7 +36,6 @@ Public Holidays:
 - Thanksgiving Day: October 12
 - Christmas Day: December 25
 - Boxing Day: December 26
-
 
  ```
 
