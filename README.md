@@ -24,7 +24,7 @@ Example Calendar Statistics Report for Canada - 2024
 - Total number of Sundays in the year: 52
 - Total number of weekend days in the year: 104
 - Total number of weekend sections in the year: 52
-- Frequency of weekends in the year: 1.99
+- The frequency of weekends in the year in percentage: 28.42%
 - Leap year: Yes
 - Number of public holidays: 9
 - Number of public not a statutory holidays: 2
@@ -65,7 +65,7 @@ Total Number of Saturdays in the Year: 52
 Total Number of Sundays in the Year: 52
 Total Number of Weekend Days in the Year: 104
 Total Number of Weekend Sections in the Year: 52.0
-Frequency of Weekends in the Year: Every 7 Days
+The frequency of weekends in the year in percentage: 28.42%
 Leap Year: True
 
 New Year's Day: January 1
