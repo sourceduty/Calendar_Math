@@ -91,4 +91,39 @@ Christmas Day: December 25
 
 ***
 
+### Timeline Math
+
+[Timeline Math](https://chat.openai.com/g/g-o6TBa34am-timeline-math) helps you analyze a specific period by calculating various statistics related to time, such as the number of weeks, weekends, and public holidays within that timeline. It's designed to provide a detailed breakdown of the time elements within your specified start and end dates. If you have a period in mind, I can generate a customized Timeline Statistics Report for you.
+
+</details>
+
+<details><summary>Example Timeline Statistics Report</summary>
+
+ ```
+
+Timeline Statistics Report (from 2021-01-01 to 2023-12-31):
+
+- Total number of years: 3
+- Total number of weeks: 156.43
+- Total number of Mondays: 156
+- Total number of Tuesdays: 156
+- Total number of Wednesdays: 156
+- Total number of Thursdays: 156
+- Total number of Fridays: 157
+- Total number of Saturdays: 157
+- Total number of Sundays: 157
+- Total number of weekend days: 314
+- Total number of weekend sections: 156
+- The frequency of weekends in the timeline: 28.68%
+- Total number of leap years: 0
+- Leap years: 
+- Number of public holidays: 30
+- Number of public not a statutory holidays: 6
+
+ ```
+
+</details>
+
+***
+
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
