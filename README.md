@@ -4,8 +4,6 @@
 
 📅 Calculate up-to-date statistics for each year and 365 days. Print the Calendar Statistics Report.
 
-#
-
 [Calendar Math](https://chat.openai.com/g/g-Tw6MtFNwI-calendar-math) is designed to provide you with a custom Calendar Statistics Report based on your location. This report includes various statistics like the longest and shortest days of the year, the total number of weeks, the count of each weekday throughout the year, weekend-related statistics, a leap year check, and the number of public holidays specific to your country. It's a unique way to look at the year from a numerical and statistical perspective, tailored to your location.
 
 <details><summary>Calendar Statistics Report for Canada</summary>
