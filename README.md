@@ -9,24 +9,34 @@
 <details><summary>Calendar Statistics Report for Canada</summary>
 
  ```
-Result
 
-({'Longest Day of the Year': 'June 21',
-  'Shortest Day of the Year': 'December 21',
-  'Total Number of Mondays': 53,
-  'Total Number of Letters and Digits in the Year': 4,
-  'Frequency of Weekends (Weekend Days)': 52,
-  'Leap Year': True,
-  'Number of Public Holidays': 9},
- {"New Year's Day": 'January 1',
-  'Good Friday': 'Variable date',
-  'Easter Monday': 'Variable date',
-  'Victoria Day': 'Monday preceding May 25',
-  'Canada Day': 'July 1',
-  'Labour Day': 'First Monday of September',
-  'Thanksgiving': 'Second Monday of October',
-  'Christmas Day': 'December 25',
-  'Boxing Day': 'December 26'})
+Calendar Statistics Report - Canada, 2024
+
+Longest day of the year: June 21
+Shortest day of the year: December 21
+Total number of Mondays: 53
+Total number of Tuesdays: 53
+Total number of Wednesdays: 52
+Total number of Thursdays: 52
+Total number of Fridays: 52
+Total number of Saturdays: 52
+Total number of Sundays: 52
+Total number of letters and digits in the year: 4
+Frequency of weekends: 28.42%
+Leap year: Yes
+Number of public holidays: 9
+
+Public Holidays:
+- New Year's Day: January 1
+- Good Friday: April 10
+- Easter Monday: April 13
+- Victoria Day: May 18
+- Canada Day: July 1
+- Labour Day: September 7
+- Thanksgiving Day: October 12
+- Christmas Day: December 25
+- Boxing Day: December 26
+
 
  ```
 
