@@ -10,11 +10,11 @@
 
  ```
 
-Example Calendar Statistics Report - Canada (2024)
--------------------------------------------
+Calendar Statistics Report for Canada - 2024
+
 - Longest day of the year: June 21
 - Shortest day of the year: December 21
-- Total number of weeks in the year: 52.29
+- Total number of weeks in the year: 52.14
 - Total number of Mondays in the year: 53
 - Total number of Tuesdays in the year: 53
 - Total number of Wednesdays in the year: 52
@@ -24,9 +24,10 @@ Example Calendar Statistics Report - Canada (2024)
 - Total number of Sundays in the year: 52
 - Total number of weekend days in the year: 104
 - Total number of weekend sections in the year: 52
-- Frequency of weekends in the year: 0.28
+- Frequency of weekends in the year: 1.99
 - Leap year: Yes
-- Number of public holidays: 11
+- Number of public holidays: 9
+- Number of public not a statutory holidays: 2
 
 Public Holidays:
 - New Year's Day: January 1
@@ -38,7 +39,8 @@ Public Holidays:
 - Thanksgiving Day: October 12
 - Christmas Day: December 25
 - Boxing Day: December 26
-- Remembrance Day: November 11
+
+
 
 - The total number of weeks in the year 2024 is approximately 52.29. This accounts for the fact that there are 366 days in 2024, due to it being a leap year.
 - Please note that public holidays can vary by province in Canada, and Good Friday's date changes each year.
