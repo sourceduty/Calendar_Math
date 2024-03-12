@@ -26,7 +26,7 @@ Example Calendar Statistics Report - Canada (2024)
 - Total number of weekend sections in the year: 52
 - Frequency of weekends in the year: 0.28
 - Leap year: Yes
-- Number of public holidays: 12
+- Number of public holidays: 11
 
 Public Holidays:
 - New Year's Day: January 1
@@ -38,6 +38,7 @@ Public Holidays:
 - Thanksgiving Day: October 12
 - Christmas Day: December 25
 - Boxing Day: December 26
+- Remembrance Day: November 11
 
 - The total number of weeks in the year 2024 is approximately 52.29. This accounts for the fact that there are 366 days in 2024, due to it being a leap year.
 - Please note that public holidays can vary by province in Canada, and Good Friday's date changes each year.
