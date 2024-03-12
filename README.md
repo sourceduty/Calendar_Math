@@ -39,7 +39,8 @@ Public Holidays:
 - Christmas Day: December 25
 - Boxing Day: December 26
 
-The total number of weeks in the year 2024 is approximately 52.29. This accounts for the fact that there are 366 days in 2024, due to it being a leap year.
+- The total number of weeks in the year 2024 is approximately 52.29. This accounts for the fact that there are 366 days in 2024, due to it being a leap year.
+- Please note that public holidays can vary by province in Canada, and Good Friday's date changes each year.
 
  ```
 
