@@ -22,7 +22,6 @@ Example Calendar Statistics Report - Canada (2024)
 - Total number of Fridays in the year: 52
 - Total number of Saturdays in the year: 52
 - Total number of Sundays in the year: 52
-- Total number of letters and digits in the year: 4
 - Total number of weekend days in the year: 104
 - Total number of weekend sections in the year: 52
 - Frequency of weekends in the year: 0.28
