@@ -83,6 +83,7 @@ Christmas Day: December 25
 
 - Black Consciousness Day: November 20
 - These dates provide a general guide, but please note that the actual observance of some holidays, particularly those that vary, might be different based on specific regional practices or adjustments for weekends. ​
+- In Brazil, Black Consciousness Day (Dia da Consciência Negra) is observed annually on November 20th. It is not a federal statutory holiday, but it is recognized as a holiday in many states and municipalities throughout the country.
 
  ```
 
