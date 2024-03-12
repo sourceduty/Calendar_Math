@@ -11,13 +11,22 @@
  ```
 Result
 
-{'Longest Day of the Year': 'June 21',
- 'Shortest Day of the Year': 'December 21',
- 'Total Number of Mondays': 53,
- 'Total Number of Letters and Digits in the Year': 4,
- 'Frequency of Weekends in the Year': 104,
- 'Leap Year': True,
- 'Number of Public Holidays': 9}
+({'Longest Day of the Year': 'June 21',
+  'Shortest Day of the Year': 'December 21',
+  'Total Number of Mondays': 53,
+  'Total Number of Letters and Digits in the Year': 4,
+  'Frequency of Weekends (Weekend Days)': 52,
+  'Leap Year': True,
+  'Number of Public Holidays': 9},
+ {"New Year's Day": 'January 1',
+  'Good Friday': 'Variable date',
+  'Easter Monday': 'Variable date',
+  'Victoria Day': 'Monday preceding May 25',
+  'Canada Day': 'July 1',
+  'Labour Day': 'First Monday of September',
+  'Thanksgiving': 'Second Monday of October',
+  'Christmas Day': 'December 25',
+  'Boxing Day': 'December 26'})
 
  ```
 
