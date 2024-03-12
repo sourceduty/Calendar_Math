@@ -103,24 +103,24 @@ Christmas Day: December 25
 
  ```
 
-Timeline Statistics Report (from 2021-01-01 to 2023-12-31):
+Timeline Statistics Report for the period from January 1, 2000, to December 31, 2024:
 
-- Total number of years: 3
-- Total number of weeks: 156.43
-- Total number of Mondays: 156
-- Total number of Tuesdays: 156
-- Total number of Wednesdays: 156
-- Total number of Thursdays: 156
-- Total number of Fridays: 157
-- Total number of Saturdays: 157
-- Total number of Sundays: 157
-- Total number of weekend days: 314
-- Total number of weekend sections: 156
-- The frequency of weekends in the timeline: 28.68%
-- Total number of leap years: 0
-- Leap years: 
-- Number of public holidays: 30
-- Number of public not a statutory holidays: 6
+- Total number of years in the timeline: 25
+- Total number of weeks in the timeline: 1304
+- Total number of Mondays in the timeline: 1305
+- Total number of Tuesdays in the timeline: 1305
+- Total number of Wednesdays in the timeline: 1304
+- Total number of Thursdays in the timeline: 1304
+- Total number of Fridays in the timeline: 1304
+- Total number of Saturdays in the timeline: 1305
+- Total number of Sundays in the timeline: 1305
+- Total number of weekend days in the timeline: 2610
+- Total number of weekend sections in the timeline: 1304
+- The frequency of weekends in the timeline as percentage: 28.58%
+- Total number of leap years: 7
+- Leap years in the timeline: [2000, 2004, 2008, 2012, 2016, 2020, 2024]
+- Number of public holidays in the timeline: 250
+- Number of public not a statutory holidays in the timeline: 125
 
  ```
 
