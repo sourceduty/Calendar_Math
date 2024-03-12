@@ -14,6 +14,7 @@ Example Calendar Statistics Report - Canada, 2024
 
 Longest day of the year: June 21
 Shortest day of the year: December 21
+Total number of weeks in the year 2024: 52.28
 Total number of Mondays: 53
 Total number of Tuesdays: 53
 Total number of Wednesdays: 52
