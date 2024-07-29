@@ -126,6 +126,12 @@ Timeline Statistics Report for the period from January 1, 2000, to December 31, 
 
 </details>
 
-***
+#
+### Related Links
 
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Math Simulator](https://github.com/sourceduty/Math_Simulator)
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
